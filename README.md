@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osamamicro
 - 👀 I’m interested in DotNet Development, Clean Code, Clean Architecture and more.
-- 🌱 I’m currently learning DDD, and Clean Architecture.
+- 🌱 I’m currently learning DDD, Microservices and Clean Architecture.
 - 📫 How to reach me [Send Me MSG Here!](https://www.linkedin.com/in/osamamicro/)
 
 <!---
